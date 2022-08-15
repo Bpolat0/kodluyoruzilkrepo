@@ -32,7 +32,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML Image as link</title>
+
    </head>
    <body>
       Patika.dev Linkim İçin Tıklayabilirsiniz:<br>
