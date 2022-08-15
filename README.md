@@ -28,3 +28,17 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Image as link</title>
+   </head>
+   <body>
+      Patika.dev Linkim İçin Tıklayabilirsiniz:<br>
+      <a href="https://app.patika.dev/bpolat">
+         <img alt="Qries" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png"
+         width="150" height="150">
+      </a>
+   </body>
+</html>
